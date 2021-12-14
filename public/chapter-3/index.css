@@ -1,0 +1,249 @@
+/* ini buat hal 1 */
+.bk {
+  background-image: url(./assets/main-bg.jpg);
+  width: 100;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.konten1 {
+  margin-left: 8%;
+  margin-top: 10%;
+}
+
+.konten1 h1 {
+  font-size: 120px;
+  color: white;
+  line-height: 90px;
+}
+
+.konten1 p {
+  color: white;
+}
+
+.konten1 button {
+  border: none;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgb(163, 163, 163);
+  color: white;
+  font-size: 15px;
+}
+
+@media only screen and (max-width: 520px) {
+  .konten1 {
+    margin-top: 20%;
+  }
+
+  .konten1 h1 {
+    font-size: 60px;
+    line-height: 40px;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  .kanan {
+    position: relative !important;
+    top: 300px !important;
+    right: 66px !important;
+    width: 66% !important;
+  }
+
+  .kiri p {
+    margin-left: 40px;
+    font-size: 20px;
+  }
+  .kiri h2 {
+    margin-left: 40px;
+    font-size: 100px !important;
+    line-height: 75px !important;
+    margin-top: 20px;
+  }
+}
+
+/* ini buat hal 2 */
+.bk2 {
+  background-image: url(./assets/the-games-bg.jpg);
+  width: 100;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.kiri {
+  width: 20%;
+  margin-top: 20% !important;
+  color: white;
+  font-size: 2em;
+}
+
+.kiri h2 {
+  color: white;
+  font-size: 4em;
+  line-height: 100px;
+}
+
+.kanan {
+  margin-top: 20% !important;
+}
+
+/* ini buat halaman 3 */
+
+.bk3 {
+  background-image: url(./assets/features.jpg);
+  width: 100;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.kanan2 {
+  margin-top: 20% !important;
+  color: white;
+  font-size: 2em;
+}
+
+.kanan2 h2 {
+  color: white;
+  font-size: 3em;
+}
+
+.kanan2-sub h3 {
+  color: white;
+  font-size: 30px;
+}
+
+.kanan2-sub p {
+  color: white;
+  font-size: 10px;
+}
+
+.bk4 {
+  background-image: url(./assets/requirements.png);
+  width: 100;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.kotak1 {
+  margin-top: 10% !important;
+}
+
+.kotak1 h2 {
+  font-size: 50px;
+}
+
+.kotak2 {
+  margin-top: 3% !important;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+.kotak3 {
+  margin-top: 3% !important;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+.kotak4 {
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+.kotak5 {
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+.kotak6 {
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+}
+
+.bk5 {
+  background-image: url(./assets/requirements.png);
+  width: 100;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.kotak1-1 button {
+  color: white;
+  background-color: tomato;
+  border-style: none;
+  padding: 5px;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.kotak1-1 {
+  margin-top: 25% !important;
+}
+
+.kotak1-2 {
+  margin-top: 10% !important;
+  /* border-style: solid;
+  border-color: white;
+  border-width: 1px; */
+}
+
+.ktk1 {
+  width: 52% !important;
+  border-style: solid;
+  border-color: rgb(63, 63, 63);
+  border-width: 1px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(63, 63, 63);
+}
+
+.ktk2 {
+  margin-left: -70px;
+  width: 52% !important;
+  border-style: solid;
+  border-color: rgb(63, 63, 63);
+  border-width: 1px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(63, 63, 63);
+}
+
+.ktk3 {
+  width: 52% !important;
+  border-style: solid;
+  border-color: rgb(63, 63, 63);
+  border-width: 1px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(63, 63, 63);
+}
+
+.bk6 {
+  /* background-image: url(./assets/requirements.png); */
+  background-color: black;
+  width: 100;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+/* .cnt {
+  margin-top: 10%;
+} */
